@@ -1,1 +1,1 @@
-"# file_sharing_application" 
+The file-sharing application successfully provides users with a seamless and secure experience for uploading and downloading files. Leveraging the power of React, Node.js, and Amazon S3, the application ensures reliability, scalability, and data security.
